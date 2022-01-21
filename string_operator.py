@@ -1,0 +1,5 @@
+print("이름\t나이\t지역")
+print("윤성아\t23\t처인구")
+print("윤아린\t23\t강서구")
+print("구름\t3\t강서구")
+print("\tby super jump")
